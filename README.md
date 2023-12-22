@@ -1,4 +1,7 @@
-# raku-road-searcher
+# Zennの記事用のサンプルコード
+
+## zenn
+https://zenn.dev/homing/articles/f9a314841c737d
 
 ## setup
 
